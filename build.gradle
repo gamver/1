@@ -9,7 +9,7 @@ buildscript {
         // 依赖版本
         hilt_version = '2.43.2'
         md3_version = '1.0.0-beta02'
-        okhttp_version = '5.0.0-alpha.10'
+        okhttp_version = '5.0.0-alpha.11'
         exoplayer_version = '2.18.1'
         lottie_version = '5.2.0'
         paging_version = "3.1.1"
